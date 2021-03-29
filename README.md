@@ -12,4 +12,4 @@ Esta es una aplicacion que cree para reemplazar WhatsApp y poder "chatear" con m
 
 ## App Preview
 
-![](https://github.com/pierorolando1/Chat-Flutter/blob/main/chatExample.mp4)
+![](https://github.com/pierorolando1/Chat-Flutter/blob/main/chatExample.mp4?raw=true)
